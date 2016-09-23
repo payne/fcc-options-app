@@ -1,3 +1,9 @@
+Notes
+
+1. https://www.youtube.com/watch?v=V8B4orj0M7Y describes the project
+2. Project was sited in https://medium.freecodecamp.com/open-source-for-good-1a0ea9f32d5a#.41jf7uk92
+
+
 # Options Inc. Web Application
 
 ## Overview
